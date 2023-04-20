@@ -1,0 +1,31 @@
+
+body{
+    background-color: #322A5D;
+}
+
+#butterfly {
+    width:20%;
+    height: 20%;
+}
+#girl{
+    width: 20%;
+    height: 20%;
+}
+#breathe{
+    width: 20%;
+    height: 40%;
+}
+audio{
+    display:none;
+}
+#credits{
+    font-size: 9px;
+    text-align: center;
+    color:white;
+}
+
+#name{
+    font-family: "Playfair Display";
+    font-size: 30px;
+    color: #FFCDD0;
+}
