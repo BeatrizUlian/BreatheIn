@@ -15,9 +15,9 @@ body{
     width: 20%;
     height: 40%;
 }
-/* audio{
+audio{
     display:none;
-} */
+}
 #credits{
     font-size: 9px;
     text-align: center;
